@@ -1,4 +1,4 @@
-#Function Name    :  Update A Record From emptab
+#Function Name    :  Update A Record From emptab.
 #Function Date    :  11 Oct 2021
 #Function Author  :  Om Deshmukh
 #Input            :  Int
